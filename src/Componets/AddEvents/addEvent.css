@@ -1,0 +1,20 @@
+.addEvent-container{
+    width: 50%;
+    display: flex;
+    flex-flow: column;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    background-color: whitesmoke;
+
+}
+
+.Event-container, input,textarea {
+    width: 80%;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+ 
+
+}
